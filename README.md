@@ -1,4 +1,4 @@
-# RoleCraft ![Logo]((./assets/logo.png)
+# RoleCraft![Logo](./assets/logo.png)
 
 ## Framework
 
