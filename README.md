@@ -1,6 +1,7 @@
 <h1 align="center">
   RoleCraft <img src="./assets/logo.png" width="30" height="30" />
 </h1>
+RoleCraft-GLM: Advancing Personalized Role-Playing in Large Language Models
 
 ## Abstract
 
