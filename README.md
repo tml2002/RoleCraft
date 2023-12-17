@@ -11,7 +11,10 @@ This study presents RoleCraft-GLM, an innovative framework aimed at enhancing pe
 Overview of the RoleCraft-GLM framework: (1)Emotionally annotated dialog datasets play a key role in creating role profiles that reflect specific emotional traits. (2)The generation of Q\&A pairs, based on context and known character traits, ensures that dialogues are consistent with the character profiles. (3) A hybrid approach of generic and character-specific instructions is used to train the GLM for various dialog scenarios.
 
 
+
+
 ![Framework Image2](./assets/prompt.png)
+Here is an example of generating a detailed character description. Utilizing a character description template along with an emotionally annotated dialogue dataset facilitates the generation of detailed character descriptions based on prompts.(The instruction and output have been translated into English.)
 
 ## Statistics
 ![Statistics Image 1](./assets/statistic1.png)
