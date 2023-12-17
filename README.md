@@ -20,6 +20,8 @@ Here is an example of generating a detailed character description. Utilizing a c
 
 ## Experimental Results
 ![Experimental Results Image 1](./assets/case.png)
+A case of generated responses from our model and baseline models to a character-specific introduction.
+
 ![Experimental Results Image 2](./assets/result1.png)
 ![Experimental Results Image 3](./assets/result2.png)
 
