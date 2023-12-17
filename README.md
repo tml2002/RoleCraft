@@ -17,8 +17,8 @@ Here is an example of generating a detailed character description. Utilizing a c
 ## Statistics
 ![Statistics Image 1](./assets/statistic1.png)
 ![Statistics Image 2](./assets/statistic2.png)
-![Statistics Image 3](./assets/result1.png) ![Statistics Image 4](./assets/result2.png)
 
 ## Experimental Results
 ![Experimental Results Image 1](./assets/case.png)
+![Statistics Image 3](./assets/result1.png) ![Statistics Image 4](./assets/result2.png)
 
