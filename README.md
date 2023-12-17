@@ -1,4 +1,4 @@
-# RoleCraft <img src="(./assets/logo.png" width="30" height="30" />
+# RoleCraft <img src="./assets/logo.png" width="30" height="30" />
 
 ## Abstract
 
