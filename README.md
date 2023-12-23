@@ -6,8 +6,8 @@
   RoleCraft-GLM: Advancing Personalized Role-Playing in Large Language Models
 </div>
 
-<div align="center">
-  <a href="https://tml2002.github.io/RoleCraft" style="margin-right: 20px;>Paper project</a>
+<div align="center" style="text-align: center;">
+  <a href="https://tml2002.github.io/RoleCraft" style="margin-right: 20px;">Paper project</a>
   <a href="https://tml2002.github.io/RoleCraft">Paper</a>
 </div>
 
