@@ -4,11 +4,12 @@
 
 <div align="center">
   RoleCraft-GLM: Advancing Personalized Role-Playing in Large Language Models
-  [Paper project](https://tml2002.github.io/RoleCraft)
- [Paper](https://tml2002.github.io/RoleCraft)
 </div>
 
-
+<div align="center">
+  <a href="https://tml2002.github.io/RoleCraft">Paper project</a>
+  <a href="https://tml2002.github.io/RoleCraft">Paper</a>
+</div>
 
 ## Abstract
 
