@@ -272,7 +272,31 @@ img.responsive {
   display: block; /* Display block to remove bottom space */
   margin: 0 auto; /* Center the image */
 }
+.button {
+  display: inline-block;
+  color: white;
+  background-color: #333;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 20px; /* Gives the buttons a rounded shape */
+  font-weight: bold; /* Makes the text bold */
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
 
+.button:hover {
+  background-color: #555; /* Darker shade on hover */
+}
+
+.button img {
+  width: 16px; /* Adjust size as needed */
+  height: 16px; /* Adjust size as needed */
+  vertical-align: middle; /* Aligns the icon vertically with the text */
+  margin-right: 8px; /* Spacing between the icon and the text */
+}
 
 /* Additional styling can go here */
 </style>
@@ -315,9 +339,9 @@ img.responsive {
 <!--</header>-->
 
 <section align="center">
-  <a href="your_paper_url" target="_blank">paper</a>
-  <a href="your_video_url" target="_blank">demo</a>
-  <a href="https://github.com/tml2002/RoleCraft" target="_blank">code</a>
+  <a href="your_paper_url"  class="button" target="_blank">paper</a>
+  <a href="your_video_url" class="button" target="_blank">demo</a>
+  <a href="https://github.com/tml2002/RoleCraft"  class="button" target="_blank">code</a>
 </section>
 
 <div class="abstract-container">
