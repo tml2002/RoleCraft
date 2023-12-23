@@ -266,6 +266,12 @@ section a {
   box-shadow: none
   margin-top: 50px; /* Adjust as needed to center vertically */
 }
+img.responsive {
+  max-width: 100%; /* Make image max width 100% of its container */
+  height: auto; /* Auto height to maintain aspect ratio */
+  display: block; /* Display block to remove bottom space */
+  margin: 0 auto; /* Center the image */
+}
 
 
 /* Additional styling can go here */
@@ -338,8 +344,7 @@ section a {
 
 <section>
     <div class="abstract-title"><h1>Prompt</h1></div>
-
-  <img src="./assets/prompt.png" alt="Prompt Image1">
+<img src="./assets/prompt.png" alt="Prompt Image" class="responsive">
   <p>Here is an example of generating a detailed character description. Utilizing a character description template along with an emotionally annotated dialogue dataset facilitates the generation of detailed character descriptions based on prompts.(The instruction and output have been translated into English.)</p>
 </section>
 
