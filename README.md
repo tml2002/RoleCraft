@@ -33,3 +33,15 @@ Here is an example of generating a detailed character description. Utilizing a c
 ![Experimental Results Image 2](./assets/result1.png)
 ![Experimental Results Image 3](./assets/result2.png)
 
+## Citation
+if you find this work helpful, please cite:
+```
+@misc{rolecraft-glm,
+    title={RoleCraft-GLM: Advancing Personalized Role-Playing in Large Language Models},
+    author={Meiling Tao, Xuechen Liang, Tianyu Shi, et al},
+    year={2023},
+    howpublished={GitHub repository},
+    note={\url{https://github.com/tml2002/RoleCraft-GLM/}}
+}
+```
+
